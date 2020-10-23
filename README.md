@@ -1,4 +1,5 @@
 # Data Scientist / Machine Learning Engineer
+![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner.jpg)
 
 ## 👋 About Me :
     I am a data scientist and machine learning engineer, with a background in physics. I am currently seeking
