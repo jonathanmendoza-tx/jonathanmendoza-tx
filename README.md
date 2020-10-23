@@ -1,6 +1,5 @@
 # Data Scientist / Machine Learning Engineer
 ![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner.jpg)
-
 ## 👋 About Me :
     I am a data scientist and machine learning engineer, with a background in physics. I am currently seeking
     new opportunities in Texas or remotely, but I'd be open to discuss any other opportunities out of the area. 
@@ -25,4 +24,4 @@
 
 ## 📫 How to reach me:
     [LinkedIn](https://www.linkedin.com/in/jonathan-mendoza88/)
-
+![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner-bottom.jpg)
