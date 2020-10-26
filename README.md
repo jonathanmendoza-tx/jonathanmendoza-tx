@@ -16,8 +16,8 @@
 
 ## 🔭 Current Project(s):
     I am currently working on one of the National Health Institute's private datasets on the subject of cancer. 
-    The study will attempt to determine whether it is possible to determine probability of a cancer diagnosis based 
-    on available health questionaires and/or non-invasive health screenings.
+    The study will attempt to determine whether it is possible to estimate the probability of a cancer diagnosis based 
+    on an available health questionaire and/or health screenings.
 
 ## 👯 I'm willing to collaborate on:
     Any project which requires data science.
