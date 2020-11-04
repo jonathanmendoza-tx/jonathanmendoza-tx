@@ -15,7 +15,7 @@
 
 
 ## 🔭 Current Project(s):
-    I am currently working on a private dataset from the National Health Institute. The study will attempt to 
+    I am currently working on a private dataset from the National Institutes of Health. The study will attempt to 
     estimate the probability of a cancer diagnosis based on available health questionnaires and minimally 
     invasive health screenings.
 
