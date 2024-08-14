@@ -15,8 +15,7 @@
 
     Currently, I'm on the lookout for fresh challenges, preferably in or around Longmont, CO or remote roles. 
     However, I'm always open to exciting opportunities irrespective of location. For a deeper dive into my recent 
-    endeavors, I invite you to explore my work on 
-![Medium](https://medium.com/can-it-be-predicted).
+    endeavors, I invite you to explore my work on [Medium](https://medium.com/can-it-be-predicted).
 
 ## 🔭 Current Project(s):
     I am currently working on A LOT.
@@ -25,5 +24,6 @@
     Any project which requires data science and critical thinking
 
 ## 📫 How to reach me:
-![LinkedIn](https://www.linkedin.com/in/jonathan-mendoza88/)
+[LinkedIn](https://www.linkedin.com/in/jonathan-mendoza88/)
+
 ![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner-bottom.jpg)
