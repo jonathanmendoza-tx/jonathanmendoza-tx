@@ -15,12 +15,10 @@
 
 
 ## 🔭 Current Project(s):
-    I am currently working on a private dataset from the National Institutes of Health. The study will attempt to 
-    estimate the probability of a cancer diagnosis based on available health questionnaires and minimally 
-    invasive health screenings.
+    I am currently working on A LOT.
 
 ## 👯 I'm willing to collaborate on:
-    Any project which requires data science.
+    Any project which requires data science and critical thinking
 
 ## 📫 How to reach me:
     [LinkedIn](https://www.linkedin.com/in/jonathan-mendoza88/)
