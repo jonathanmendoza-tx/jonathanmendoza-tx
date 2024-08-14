@@ -24,7 +24,8 @@
     Any project which requires data science and critical thinking
 
 ## 📫 My Pages:
-[LinkedIn - Jonathan](https://www.linkedin.com/in/jonathan-mendoza88/)
+[LinkedIn](https://www.linkedin.com/in/jonathan-mendoza88/)
+
 [Medium - Can It Be Predicted?](https://medium.com/can-it-be-predicted)
 
 ![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner-bottom.jpg)
