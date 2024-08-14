@@ -1,18 +1,21 @@
 # Data Scientist / Machine Learning Engineer
 ![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner.jpg)
 ## 👋 About Me :
-    I am a data scientist and machine learning engineer, with a background in physics. Understanding and analyzing 
-    data is my passion. I am currently seeking new opportunities in Texas or remotely, but I would be open to discuss 
-    any other opportunities out of the area. I have a strong background in mathematics, research, Python, SQL, APIs, 
-    AWS, Docker, and experience in Java. My past experience in research has given me the expertise to understand and 
-    break-down problems, using first-principles thinking. Combining my scientific training and experience in machine 
-    learning and artificial intelligence, I strive to solve even the most difficult of problems. Working in an applied 
-    physics laboratory has taught me how to succinctly deliver and communicate results to large groups of people.
-    I also have many years in the communications industry, and this has given me the confidence and know-how to 
-    communicate effectively one-on-one.
-    
-    To see examples of my latest work, please visit my blog on [Medium](https://medium.com/can-it-be-predicted)
+    A dynamic data scientist and machine learning engineer, I fuse my strong foundation in physics and mathematics 
+    with a passion for understanding and analyzing data. My trajectory from the University of Texas at San Antonio 
+    to prominent roles in aerospace technology and applied research illustrates my commitment to first-principles 
+    thinking and my proficiency in Python, SQL, APIs, AWS, Docker, and other software tools.
 
+    My rigorous experience in research, notably with UTSA Nanomaterials Lab, has enriched my ability to dissect and 
+    solve multifaceted problems. Harnessing my scientific training, coupled with my expertise in machine learning 
+    and artificial intelligence, I remain poised to tackle even the most challenging conundrums. This approach is 
+    enhanced by my years in the communications industry, equipping me with the skillset to effectively convey complex 
+    results both in group settings and one-on-one interactions. My diverse roles, from research to IT and finance, 
+    underscore my ability to align tech solutions with diverse business needs.
+
+    Currently, I'm on the lookout for fresh challenges, preferably in or around Longmont, CO or remote roles. 
+    However, I'm always open to exciting opportunities irrespective of location. For a deeper dive into my recent 
+    endeavors, I invite you to explore my work on [Medium](https://medium.com/can-it-be-predicted).
 
 ## 🔭 Current Project(s):
     I am currently working on A LOT.
