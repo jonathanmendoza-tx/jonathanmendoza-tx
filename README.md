@@ -3,8 +3,8 @@
 ## 👋 About Me :
     Data scientist and machine learning engineer; I have years of experience in physics, mathematics, 
     and software engineering, coupled with a passion for understanding and analyzing the world. I've 
-    had classical training, held roles in aerospace technology and applied research. My commitment is 
-    to first-principles thinking, curiosity, and scientific inquiry.
+    had classical training, held roles in aerospace technology and applied research, and contracted 
+    with many clients. My commitment is to first-principles thinking, curiosity, and scientific inquiry.
 
     My experience in research and software engineering has enriched my ability to dissect and 
     solve multifaceted problems. I use my scientific knowledge, and expertise in machine learning, 
