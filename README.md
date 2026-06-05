@@ -4,10 +4,10 @@
     Data scientist and machine learning engineer, I have a foundation in physics and mathematics 
     and a passion for understanding and analyzing data. My trajectory from the University of Texas at San Antonio 
     to prominent roles in aerospace technology and applied research illustrates my commitment to first-principles 
-    thinking and my proficiency in Python, SQL, APIs, AWS, Docker, and other software tools.
+    thinking, curiosity, and scientific inquiry.
 
     My rigorous experience in research and software engineering has enriched my ability to dissect and 
-    solve multifaceted problems. I use my scientific training, expertise in machine learning 
+    solve multifaceted problems. I use my scientific training, and expertise in machine learning 
     and artificial intelligence to create interactive, data-driven models.
 
 ## 🔭 Current Focus:
