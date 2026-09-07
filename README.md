@@ -1,7 +1,7 @@
 # Data Scientist / Machine Learning Engineer
 ![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner.jpg)
 ## 👋 About Me :
-    Data scientist and machine learning engineer; I have years of experience in physics, mathematics, 
+    ML/AI Engineer; I have years of experience in physics, mathematics, 
     and software engineering, coupled with a passion for understanding and analyzing the world. I've 
     had classical training, held roles in aerospace technology and applied research, and contracted 
     with many clients. My commitment is to first-principles thinking, curiosity, and scientific inquiry.
