@@ -1,4 +1,4 @@
-# Data Scientist / Machine Learning Engineer
+#  Machine Learning and Artificial Intelligence Engineer
 ![Big-Data-Banner](https://raw.githubusercontent.com/jonathanmendoza-tx/jonathanmendoza-tx/main/Images/big-data-banner.jpg)
 ## 👋 About Me :
     ML/AI Engineer; I have years of experience in physics, mathematics, 
